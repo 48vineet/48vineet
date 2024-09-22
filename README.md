@@ -11,7 +11,7 @@
 
 ## 📫 How to reach me
 - **Email**: 7038vineet@gmail.com
-- **LinkedIn**: !(Link)[www.linkedin.com/in/vineet-mali-88a714311]
+- **LinkedIn**: [Connect with me on Linkedin](www.linkedin.com/in/vineet-mali-88a714311)  
   
 ## 😄 Pronouns
 - He/Him
