@@ -10,8 +10,8 @@
 - Web development projects, especially ones focused on improving front-end design, user interface (UI), and user experience (UX).
 
 ## 📫 How to reach me
-- **Email**: [7038vineet@gmail.com]
-- **LinkedIn**: [www.linkedin.com/in/vineet-mali-88a714311]
+- **Email**: 7038vineet@gmail.com
+- **LinkedIn**: !(Link)[www.linkedin.com/in/vineet-mali-88a714311]
   
 ## 😄 Pronouns
 - He/Him
