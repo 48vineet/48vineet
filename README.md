@@ -1,21 +1,19 @@
-<div align="center">
-<img src="https://media0.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif" align="center" style="width: 100%" />
-</div>  
+# **🚀 I'm Vineet, a Full-stack Web Developer 👨‍💻**  
   
 
-### <div align="center">🚀 I'm Vineet, a Full-stack Web Developer 👨‍💻 </div>  
+<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" align="left" height="" width="250" />  
   
 
-- 🔭 I’m currently working on Backend :)  
+### 🔭 I’m currently working on Backend :)  
   
 
-- 🌱 I’m currently learning Web Devlopment  
+### 🌱 I’m currently learning Web Devlopment  
   
 
-- ❓ Ask me about anything related to Frontend like HTML , CSS & JavaScript.  
+### ❓ Ask me about anything related to Frontend like HTML , CSS & JavaScript.  
   
 
-- ⚡ Fun fact: I'm a Gamer with Crazy Skills  
+### ⚡ Fun fact: I'm a Gamer with Crazy Skills  
   
 
 <br/>  
@@ -90,7 +88,7 @@
 <br/>  
 
 
-## About Me
+## Recent Blog Posts  
 <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" align="left" height="200" width="250" />  
   
 
@@ -112,4 +110,8 @@ Though I’m at the beginning of my career path, I am passionate about acquiring
 
 <br/>  
 
+<div align="center"></div>
+<br />
 
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
