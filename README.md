@@ -25,8 +25,8 @@
 
 
 ### Frontend  
-<div align="center">  
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<div align="center">  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 </div>
 
 </td><td valign="top" width="33%">
