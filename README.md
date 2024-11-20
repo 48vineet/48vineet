@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=48vineet&label=Profile%20views&color=0e75b6&style=flat" alt="48vineet" /> </p>
 
-<p align="left"> <a href="https://twitter.com/48_vineet_" target="blank"><img src="https://img.shields.io/twitter/follow/48_vineet_?logo=twitter&style=for-the-badge" alt="48_vineet_" /></a> </p>
+
 
 - 🌱 I’m currently learning **Backend**
 
