@@ -68,7 +68,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## About Me 
 <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" align="left" height="200" width="250" />  
   
 
