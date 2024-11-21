@@ -69,7 +69,7 @@
 
 
 ## About Me 
-<img src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif" align="left" height="200" width="250" />  
+<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" align="left" height="200" width="250" />  
   
 
 <div align="center">   Hello! I'm Vineet Mali, currently a first-year student at SVKM's Institute of Technology (IOT) under DBATU University in Dhule, Maharashtra. As an enthusiastic learner embarking on my academic journey in B.Tech Computer Engineering And Data Science , I'm eager to explore and develop my skills in Web Development Currently I have completed HTML , CSS And JavaScript ! 🔗💻🚀.
