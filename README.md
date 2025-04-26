@@ -94,30 +94,3 @@ Though I’m at the beginning of my career path, I am passionate about acquiring
 <div align="center"> Code Created By My Own ! </div>
 
 
-<div> 
-#include <stdio.h>
-// Function to calculate factorial
-long long factorial(int n) {
- if (n == 0 || n == 1) {
- return 1; // Base case: 0! and 1! = 1
- }
- return n * factorial(n - 1); // Recursive case
-}
-int main() {
- int number;
- long long result;
- // Input the number
- printf("Enter a positive integer: ");
- scanf("%d", &number);
- // Check if the input is valid
- if (number < 0) {
- printf("Factorial is not defined for negative numbers.\n");
- } else {
- // Calculate factorial
- result = factorial(number);
- // Display the result
- printf("The factorial of %d is %lld.\n", number, result);
- }
- return 0;
-}
-</div>
