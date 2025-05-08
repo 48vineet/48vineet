@@ -29,8 +29,8 @@
 
 <div align="center" >  
 <a href="https://skillicons.dev" >
-     <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" /> <br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,npm,express,powershell,react" /> <br/>
+     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /> <br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,npm,express,powershell" /> <br/>
      <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> <br/>
          <img src="https://skillicons.dev/icons?i=git,gitlab,vscode" /> <br/>
             <img src="https://skillicons.dev/icons?i=windows,ubuntu,mint,kali,linux,debian" /> 
