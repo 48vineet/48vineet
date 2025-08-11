@@ -32,7 +32,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=48vineet&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9"/>
- <img src="https://ghchart.rshah.org/409ba5/48vineet" alt="GitHub Contribution Chart" width="100%"/>
+<img src="https://ghchart.rshah.org/40C463/48vineet" alt="GitHub Contribution Chart" width="100%"/>
 
 </div>
 
