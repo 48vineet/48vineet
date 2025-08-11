@@ -32,7 +32,8 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=48vineet&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats-eight.vercel.app/?user=48vineet&theme=tokyonight&hide_border=true&bg_color=0d1117&stroke=58a6ff&ring=f85149&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=7c3aed"/>
+ <img src="https://ghchart.rshah.org/409ba5/48vineet" alt="GitHub Contribution Chart" width="100%"/>
+
 </div>
 
 <div align="center">
@@ -45,7 +46,7 @@
 ## 🏆 **GitHub Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=48vineet&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=48vineet&theme=tokyonight&no-frame=true&column=8&margin-w=15&margin-h=15"/>
 </div>
 
 ---
