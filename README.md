@@ -1,46 +1,33 @@
-# **🚀 I'm Vineet, a Full-stack Web Developer 👨‍💻**  
-  
+# **🚀 I'm Vineet, a Full-stack Web Developer 👨‍💻**
 
-<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" align="left" height="" width="250" />  
-  
 
-### 🔭 I’m currently working on Backend :)  
-  
 
-### 🌱 I’m currently learning Web Devlopment  
-   
+### 🔭 I'm currently working on **StyleNest** - An E-commerce Website  
 
-### ❓ Ask me about anything related to Frontend like HTML , CSS & JavaScript.  
-  
+### 🌱 I'm currently focusing on **Projects & DSA**  
+
+### ❓ Ask me about anything related to **Full-stack Development** - Frontend & Backend  
 
 ### ⚡ Fun fact: I'm a Gamer with Crazy Skills  
-  
 
 <br/>  
 
-
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
-
-
-<h2 align="center"> Languages-Frameworks And Tools <h2/>
+<h2 align="center"> Languages, Frameworks And Tools </h2>
 <br/>
 
-<div align="center" >  
-<a href="https://skillicons.dev" >
+<div align="center">  
+<a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /> <br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,npm,express,powershell" /> <br/>
+     <img src="https://skillicons.dev/icons?i=nodejs,react,redux,npm,express,powershell" /> <br/>
      <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> <br/>
-         <img src="https://skillicons.dev/icons?i=git,gitlab,vscode" /> <br/>
-            <img src="https://skillicons.dev/icons?i=windows,ubuntu,mint,kali,linux,debian" /> 
+     <img src="https://skillicons.dev/icons?i=git,gitlab,vscode" /> <br/>
+     <img src="https://skillicons.dev/icons?i=windows,ubuntu,mint,kali,linux,debian" /> 
 </a>
 </div>
 
-
-
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -57,40 +44,48 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=48vineet&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## About Me 
-<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" align="left" height="200" width="250" />  
-  
-
-<div align="center">   Hello! I'm Vineet Mali, currently a first-year student at SVKM's Institute of Technology (IOT) under DBATU University in Dhule, Maharashtra. As an enthusiastic learner embarking on my academic journey in B.Tech Computer Engineering And Data Science , I'm eager to explore and develop my skills in Web Development Currently I have completed HTML , CSS And JavaScript ! 🔗💻🚀.
-
-Though I’m at the beginning of my career path, I am passionate about acquiring new knowledge and gaining hands-on experience. I’m actively seeking opportunities to connect with professionals, learn from industry experts, and get involved in projects or internships that will help me grow both personally and professionally.</div>  
-  
-
-<br/>  
- 
+## GitHub Stats & Achievements
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=48vineet&&style=flat-square" align="center" />
-</div>  
-   
+  <img src="https://github-readme-stats.vercel.app/api?username=48vineet&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=48vineet&hide_border=true&theme=tokyonight" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=48vineet&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=48vineet&theme=tokyo-night&hide_border=true" width="48%" />
+</div>
+
+## GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=48vineet&theme=tokyonight&no-frame=true&column=7" />
+</div>
 
 <br/>  
 
-<div align="center"></div>
-<br />
+## Current Focus 🎯
 
-----
-<div align="center"> Code Created By My Own ! </div>
+<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" align="right" height="200" width="300" />  
 
+- 🛍️ **Building StyleNest** - A modern e-commerce platform
+- 📚 **Mastering DSA** - Strengthening problem-solving skills  
+- 🚀 **Creating Projects** - Building real-world applications
+- 💼 **Seeking Opportunities** - Open for internships and collaborations
+- 🌐 **Full-stack Journey** - From frontend to backend mastery
 
+<br/>
+
+## Profile Views
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=48vineet&&style=flat-square&color=brightgreen" align="center" />
+</div>  
+
+<br/>  
+
+***
+<div align="center">
+  <b>✨ Let's build something amazing together! ✨</b>
+</div>
