@@ -53,27 +53,43 @@
 
 ## 🎯 **Current Mission**
 
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 🛍️ **StyleNest Development**
 Building a modern, responsive e-commerce platform with:
-- React.js frontend with seamless UX
-- Node.js & Express.js backend architecture
-- MongoDB database for scalable data management
-- Secure payment gateway integration
+- ✨ React.js frontend with seamless UX
+- ⚙️ Node.js & Express.js backend architecture  
+- 🗄️ MongoDB database for scalable data management
+- 💳 Secure payment gateway integration
 
 ### 📚 **DSA Mastery Journey**
-- Solving complex algorithmic challenges
-- Optimizing code performance
-- Competitive programming practice
-- Data structure implementation
+- 🧩 Solving complex algorithmic challenges
+- ⚡ Optimizing code performance
+- 🏆 Competitive programming practice
+- 🔗 Data structure implementation
 
 ### 🎮 **Side Quests**
-- Open source contributions
-- Tech blog writing
-- Gaming & streaming
-- Mentoring fellow developers
+- 🌟 Open source contributions
+- ✍️ Tech blog writing
+- 🎯 Gaming & streaming
+- 🤝 Mentoring fellow developers
 
+</td>
+<td width="40%" align="center" valign="top">
+
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="Matrix Coding Animation" width="100%" style="border-radius: 10px;"/>
+
+<br/>
+
+**🔥 Currently Building the Future**
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🌐 **Connect With Me**
 
