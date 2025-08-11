@@ -51,7 +51,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=48vineet&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=48vineet&hide_border=true&theme=tokyonight" width="48%" />
 </div>
 
 <div align="center">
@@ -62,7 +61,7 @@
 
 ## GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=48vineet&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=48vineet&theme=tokyonight&no-frame=true&column=8" />
 </div>
 
 <br/>  
