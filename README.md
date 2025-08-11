@@ -59,6 +59,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=48vineet&theme=tokyo-night&hide_border=true" width="48%" />
 </div>
 
+
 ## GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=48vineet&theme=tokyonight&no-frame=true&column=7" />
