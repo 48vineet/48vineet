@@ -18,7 +18,7 @@ Open-source contribution, UI/UX design, and cloud architecture.
 
 <!-- ⚠️ Important: Replace '48vineet' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="![](https://komarev.com/ghpvc/?username=48vineet&style=for-the-badge)" />
+  <img src="https://komarev.com/ghpvc/?username=48vineet&style=for-the-badge" />
   <br>Thank you for visiting my profile! Come back soon!
 </p>
 
@@ -85,5 +85,5 @@ Open-source contribution, UI/UX design, and cloud architecture.
 
 <!-- Profile views counter -->
 <div align="center">
-  <img src="![](https://komarev.com/ghpvc/?username=48vineet&style=for-the-badge)" />
+  <img src="https://komarev.com/ghpvc/?username=48vineet&style=for-the-badge" />
 </div>
