@@ -14,13 +14,10 @@
 
 Open-source contribution, UI/UX design, and cloud architecture.
 
-## 👀 Visitor Count
+## 👀 Linkedin Profile
 
 <!-- ⚠️ Important: Replace '48vineet' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=48vineet&style=for-the-badge" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="48-vineet" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/48-vineet?trk=profile-badge">Vineet Mali</a></div>
 
 ## 🏆 GitHub Trophies
 
