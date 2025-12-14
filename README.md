@@ -1,86 +1,33 @@
-# Hi 👋, I'm Vineet Mali
-
-**💻 Full-stack MERN developer passionate about crafting intuitive, scalable web experiences. Skilled in React, Node.js, Express, and MongoDB, with a knack for debugging, secure API design, and UI/UX that builds trust. Bridging tech and impact through socially driven apps and multilingual accessibility.**
-
-## 🔭 I'm currently working on
-
-🎓 Second-year undergraduate student specializing in Data Science.
-
-## 🌱 I'm currently learning
-
-🎯 Learning Objectives: Deepening my understanding of Data Structures and Algorithms (DSA) in JavaScript, while exploring emerging technologies to stay ahead in the tech landscape.
-
-## 👀 I'm interested in
-
-Open-source contribution, UI/UX design, and cloud architecture.
-
-## 👀 Linkedin Profile
-
-<!-- ⚠️ Important: Replace '48vineet' with your actual GitHub username in the URL below -->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="48-vineet" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/48-vineet?trk=profile-badge">Vineet Mali</a></div>
-
-## 🏆 GitHub Trophies
-
-<!-- ⚠️ Important: Replace '48vineet' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=48vineet&theme=flat&column=7&margin-w=15&margin-h=15" />
-</p>
-
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace '48vineet' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=48vineet&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace '48vineet' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=48vineet&layout=compact&langs_count=10&theme=default"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace '48vineet' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=48vineet&theme=default&hide_border=false" />
-</div>
-
-## 💻 Tech Stack
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-ff69b4?style=for-the-badge&logo=tailwind&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/Express-4169e1?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-4169e1?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4169e1?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4169e1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-
-### 💬 Languages
-
-<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/C-FFA500?style=for-the-badge&logo=c&logoColor=white" /> 
-
-## 🌐 Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/48-vineet/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/48vineet) 
-
-</div>
-
-## 📫 How to reach me
-
-<div align="left">
-
-📧 **Email:** [7038vineet@gmail.com](mailto:7038vineet@gmail.com)
-
-</div>
+<h2> Hi, I'm Vineet Mali! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>Visit My Portfolio <a href="http://vineetmali.dev"> vineetmali.dev</a>
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"> </em> <br/>
+  <em>
+    Full-Stack MERN Developer <br/>
+    Passionate about UI/UX, APIs & problem solving
+  </em>
+ 
+  
+[![Linkedin: 48-vineet](https://img.shields.io/badge/-Vineet%20Mali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/48-vineet/)](https://www.linkedin.com/in/48-vineet/)
+[![GitHub Vineet](https://img.shields.io/github/followers/48vineet?label=follow&style=social)](https://github.com/48vineet)
 
 ---
-⭐️ From [Vineet Mali](https://github.com/48vineet)
 
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=48vineet&style=for-the-badge" />
-</div>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little more about me...  
+
+```javascript
+const vineet = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "C", "HTML", "CSS"],
+  tools: ["React", "Node.js", "Express", "MongoDB", "MySQL", "Tailwind", "Bootstrap"],
+  focus: ["UI/UX", "API design", "Debugging", "Scalable systems"],
+  interests: ["Open-source", "Cloud architecture", "Developer experience"],
+  challenge: "Improving DSA skills in JavaScript while building real-world projects"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I enjoy working and exchanging ideas with different people</b>, so if you’re interested in collaborating or just having a good tech conversation, <b>don’t hesitate to say hi.</b></em>
+
+---
+
+
+
