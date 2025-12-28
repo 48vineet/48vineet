@@ -1,6 +1,6 @@
 <h2> Hi, I'm Vineet Mali! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Visit My Portfolio <a href="http://vineetmali.dev"> vineetmali.dev</a>
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"> </em> <br/>
+<img align='right' src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTh2OTZrMzM1Z2p6dTZwbmN5ZWZ3aXp6Y2xnZDMwd2JxeGFsMGIzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)" width="230"> </em> <br/>
   <em>
     Full-Stack MERN Developer <br/>
     Passionate about UI/UX, APIs & problem solving
