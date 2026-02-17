@@ -21,7 +21,7 @@ const vineet = {
   tools: ["React", "Node.js", "Express", "MongoDB", "MySQL", "Tailwind", "Bootstrap"],
   focus: ["UI/UX", "API design", "Debugging", "Scalable systems"],
   interests: ["Open-source", "Cloud architecture", "Developer experience"],
-  challenge: "Improving DSA skills in JavaScript while building real-world projects"
+  challenge: "Improving DSA skills in Python while building real-world projects"
 }
 ```
 
