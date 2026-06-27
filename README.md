@@ -2,7 +2,7 @@
 <p><em>Visit My Portfolio <a href="http://vineetmali.dev"> vineetmali.dev </a>
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"> </em> <br/>
   <em>
-    Full-Stack MERN , <i>&<i/> Next.js Developer <br/>
+    Full-Stack MERN <i>&<i/> Next.js Developer <br/>
     Passionate about UI/UX, APIs & problem solving
   </em>
  
