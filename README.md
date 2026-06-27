@@ -1,8 +1,8 @@
 <h2> Hi, I'm Vineet Mali! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Visit My Portfolio <a href="http://vineetmali.dev"> vineetmali.dev</a>
+<p><em>Visit My Portfolio <a href="http://vineetmali.dev"> vineetmali.dev </a>
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230"> </em> <br/>
   <em>
-    Full-Stack MERN Developer <br/>
+    Full-Stack MERN , <i>&<i/> Next.js Developer <br/>
     Passionate about UI/UX, APIs & problem solving
   </em>
  
@@ -17,7 +17,7 @@
 ```javascript
 const vineet = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "C", "HTML", "CSS"],
+  code: ["JavaScript", "Python", "HTML", "CSS"],
   tools: ["React", "Node.js", "Express", "MongoDB", "MySQL", "Tailwind", "Bootstrap"],
   focus: ["UI/UX", "API design", "Debugging", "Scalable systems"],
   interests: ["Open-source", "Cloud architecture", "Developer experience"],
