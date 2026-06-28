@@ -8,7 +8,9 @@
  
   
 [![Linkedin: 48-vineet](https://img.shields.io/badge/-Vineet%20Mali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/48-vineet/)](https://www.linkedin.com/in/48-vineet/)
+![Profile views](https://komarev.com/ghpvc/?username=48vineet)
 [![GitHub Vineet](https://img.shields.io/github/followers/48vineet?label=follow&style=social)](https://github.com/48vineet)
+
 
 ---
 
